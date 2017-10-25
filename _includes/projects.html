@@ -26,8 +26,10 @@
       <a class="project-link" href="https://moodle.org/plugins/block_enrolmenttimer">Check it out</a>
     </div>
   </div>
-
-    <ul>
+    <div class="user-posts">
+        <h3> Latest Blog posts </h3>
+    </div>
+    <ul class="posts">
         {% for post in site.posts %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>

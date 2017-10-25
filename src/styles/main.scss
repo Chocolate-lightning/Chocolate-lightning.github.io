@@ -210,6 +210,10 @@ body {
   }
 }
 
+.user-posts, .posts {
+  text-align: center;
+}
+
 .images {
   @media only screen and (min-width: $cut) {
     float: right;
