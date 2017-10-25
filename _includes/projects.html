@@ -11,7 +11,7 @@
       <a class="project-link" href="https://moodle.org/plugins/block_lw_courses">Check it out</a>
     </div>
 
-    <div class="six columns images">
+    <div class="six columns">
        <img alt="My Courses" src="{{ "/assets/img/mycourses.png" | prepend: site.baseurl }}" />
     </div>
   </div>
@@ -21,11 +21,17 @@
     </div>
     <div class="six columns">
       <h5> Enrolment Timer </h5>
-      <ul>
-        <li> Open source development </li>
-      </ul>
+      <li> Open source development </li>
       <p>The enrolment timer plugin is a legacy plugin that we still continue to support with active development and bug fixes. It gives student a quick indication of how long till their enrolments expire and can email them a warning message.</p>
       <a class="project-link" href="https://moodle.org/plugins/block_enrolmenttimer">Check it out</a>
     </div>
   </div>
+
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
 </div>

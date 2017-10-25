@@ -1,5 +1,5 @@
 # Site settings
-title: A site for Mathew
+title: Mathew's Solutions
 description: A blog about coding in the open source
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -15,6 +15,6 @@ moodle_userid:  2170787
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-73943306-3"
 
 exclude: ['package.json', 'src' , 'node_modules']
