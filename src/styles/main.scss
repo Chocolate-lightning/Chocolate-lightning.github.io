@@ -254,6 +254,24 @@ body {
   }
 }
 
+.header {
+  background: $main;
+  padding: 10px 0;
+  text-align: center;
+  color: #FFF;
+  a {
+    text-decoration: none;
+    margin: 0;
+    color: #FFF;
+    &:hover{
+      color: $sec;
+    }
+    &:active {
+      color: $sec;
+    }
+  }
+}
+
 .footer {
   background: $main;
   padding: 10px 0;
@@ -274,4 +292,9 @@ body {
       color: $sec;
     }
   }
+}
+
+.fa-mortar-board:before, .fa-graduation-cap:before {
+  left: -4px;
+  position: relative;
 }
