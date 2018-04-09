@@ -2,55 +2,55 @@ picture_path: 240318-evergreen
 preview:
   filename: IMG_2050
   original: IMG_2050.JPG
-  thumbnail: IMG_2050.JPG
+  thumbnail: IMG_2050-thumb.png
 pictures:
 - filename: IMG_2050
   original: IMG_2050.JPG
-  thumbnail: IMG_2050.JPG
+  thumbnail: IMG_2050-thumb.png
 
 - filename: IMG_2064
   original: IMG_2064.JPG
-  thumbnail: IMG_2064.JPG
+  thumbnail: IMG_2064-thumb.png
 
 - filename: IMG_2085
   original: IMG_2085.JPG
-  thumbnail: IMG_2085.JPG
+  thumbnail: IMG_2085-thumb.png
 
 - filename: IMG_2178
   original: IMG_2178.JPG
-  thumbnail: IMG_2178.JPG
+  thumbnail: IMG_2178-thumb.png
 
 - filename: IMG_2181
   original: IMG_2181.JPG
-  thumbnail: IMG_2181.JPG
+  thumbnail: IMG_2181-thumb.png
 
 - filename: IMG_2197
   original: IMG_2197.JPG
-  thumbnail: IMG_2197.JPG
+  thumbnail: IMG_2197-thumb.png
 
 - filename: IMG_2272
   original: IMG_2272.JPG
-  thumbnail: IMG_2272.JPG
+  thumbnail: IMG_2272-thumb.png
 
 - filename: IMG_2333
   original: IMG_2333.JPG
-  thumbnail: IMG_2333.JPG
+  thumbnail: IMG_2333-thumb.png
 
 - filename: IMG_2345
   original: IMG_2345.JPG
-  thumbnail: IMG_2345.JPG
+  thumbnail: IMG_2345-thumb.png
 
 - filename: IMG_2371
   original: IMG_2371.JPG
-  thumbnail: IMG_2371.JPG
+  thumbnail: IMG_2371-thumb.png
 
 - filename: IMG_2472
   original: IMG_2472.JPG
-  thumbnail: IMG_2472.JPG
+  thumbnail: IMG_2472-thumb.png
 
 - filename: IMG_2513
   original: IMG_2513.JPG
-  thumbnail: IMG_2513.JPG
+  thumbnail: IMG_2513-thumb.png
 #
 #- filename: VS-2012-6088
 #  original: VS-2012-6088-6000x4000.jpg
